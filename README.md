@@ -49,12 +49,12 @@ Planning, documentation, and execution of testing activities for a car-sharing w
 ### Artifacts Produced
 
 #### ✔️ Test Checklist
-- [**Layout Tests**](https://docs.google.com/spreadsheets/d/1EW6bx0TePbZCZ7-BvQGPLEl06fJF8uie/edit?usp=sharing&ouid=110844918887011897995&rtpof=true&sd=true)
-- [**"Payment Method" and "Add Card" Tests**](https://docs.google.com/spreadsheets/d/1EW6bx0TePbZCZ7-BvQGPLEl06fJF8uie/edit?usp=sharing&ouid=110844918887011897995&rtpof=true&sd=true)
+- [**Layout Tests**](https://docs.google.com/spreadsheets/d/1yNUQSuRs_Q1FMJgVIzKdrUn9X98-fPyu/edit?usp=sharing&ouid=110844918887011897995&rtpof=true&sd=true)
+- [**"Payment Method" and "Add Card" Tests**](https://docs.google.com/spreadsheets/d/1yNUQSuRs_Q1FMJgVIzKdrUn9X98-fPyu/edit?usp=sharing&ouid=110844918887011897995&rtpof=true&sd=true)
 
 #### ✔️ Test Cases
-- [**Logic Of The "Book" Button**](https://docs.google.com/spreadsheets/d/1EW6bx0TePbZCZ7-BvQGPLEl06fJF8uie/edit?usp=sharing&ouid=110844918887011897995&rtpof=true&sd=true)
-- [**Logic Of Reserve Resources**](https://docs.google.com/spreadsheets/d/1EW6bx0TePbZCZ7-BvQGPLEl06fJF8uie/edit?usp=sharing&ouid=110844918887011897995&rtpof=true&sd=true)
+- [**Logic Of The "Book" Button**](https://docs.google.com/spreadsheets/d/1yNUQSuRs_Q1FMJgVIzKdrUn9X98-fPyu/edit?usp=sharing&ouid=110844918887011897995&rtpof=true&sd=true)
+- [**Logic Of Reserve Resources**](https://docs.google.com/spreadsheets/d/1yNUQSuRs_Q1FMJgVIzKdrUn9X98-fPyu/edit?usp=sharing&ouid=110844918887011897995&rtpof=true&sd=true)
 - English Version
 
 #### ✔️ Bug Reports
